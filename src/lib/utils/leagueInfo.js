@@ -1,6 +1,6 @@
 /*   STEP 1   */
 export const leagueID = "844978440166805504"; // your league ID
-export const leagueName = "Drunken Delts From Ole' Mizzou - B Leage"; // your league name
+export const leagueName = "Drunken Delts From Ole' Mizzou - B League"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
@@ -9,6 +9,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
   <p>Welcome to the Drunken Delts From Ole' Mizzou Fantasy Football Leage Home Page!</p>
   <p> Additional Content Coming Soon!</p>
+  `;
 
 /*   STEP 3   */
 /*
