@@ -64,7 +64,7 @@ export const managers = [
       "philosophy": "Always have your Thursday night flyers playing in the Flex",
       "tradingScale": 4, // 1 - 10
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-    }
+    },
     // {
       // "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       // "name": "Your Name",
